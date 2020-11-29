@@ -1,6 +1,6 @@
 # android-intro-app :iphone::lipstick::call_me_hand:
 
-A sample Android app made with the excellent library AppIntro (github.com/AppIntro/AppIntro) :woman_tipping_hand: <br>
+A sample Android app made with the library AppIntro [github.com/AppIntro/AppIntro](https://github.com/AppIntro/AppIntro) :sassy_woman: <br>
 Big thumbs-up to this amazing repo :+1::+1:
 
 ![Sample](sample.gif)
